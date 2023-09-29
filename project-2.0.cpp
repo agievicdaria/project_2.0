@@ -8,7 +8,7 @@ int main() {
     cout << "new 12345 234567dfgh.." << endl;
 
     // Введення значення alpha
-    cout << "Введіть значення alpha ";
+    cout << "Введіть сюди будь-яке значення alpha ";
     cin >> alpha;
 
     // Розрахунок z1
