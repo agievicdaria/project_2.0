@@ -20,5 +20,7 @@ int main() {
     cout << "Значення z1: " << z1 << endl;
     cout << "Значення z2 = " << z2 << endl;
 
+    cout << "something new lflflf123" << endl;
+
     return 0;
 }
