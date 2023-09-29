@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
     double alpha, z1, z2;
-    cout << "new 12345" << endl;
+    cout << "new 12345 234567dfgh.." << endl;
 
     // Введення значення alpha
     cout << "Введіть значення alpha ";
